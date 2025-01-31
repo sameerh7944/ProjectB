@@ -14,6 +14,8 @@ public static void main(String[]args) {
 	        
 	        if (letter == 'A') {
 	            System.out.println("Letter is A");
+
+			//this is just a pull practice
 	        }
 	    }
 }
